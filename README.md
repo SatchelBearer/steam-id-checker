@@ -9,7 +9,7 @@ Before you download:
 ------------------
 1. Download the source code and edit the main.py file under `YOUR_STEAM_API_KEY` Change that to your Steam API key which you can get [here](https://steamcommunity.com/dev/apikey)
 2. After that make sure you have put the ID's you want to check in the ```account_names``` txt file.
-3. When you have done that open the terminal in the folder and write ```py main.py```
+3. When you have done that open the terminal in the folder and write ```py main.py``` or ```py main.py > output.txt``` to get the results in a txt instead.
 4. Profit!
 
 ### DO NOT SHARE YOUR API KEY WITH ANYONE!
